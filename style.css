@@ -1,0 +1,43 @@
+body{
+    background: url("https://media1.tenor.com/m/WMiFARiu_VsAAAAC/so-excited.gif");
+    background-size: cover;
+    font-family: 'Lora', serif;
+  }
+  .container{
+    border: 2px solid black;
+    width: 500px;
+    margin: 100px auto;
+    text-align: center;
+    background-color: white;
+    height: 300px;
+    opacity: 0.8;
+  }
+  #text{
+    margin-top: 50px;
+  }
+  button{
+    padding: 15px;
+    font-size: large;
+    margin: 30px 10px;
+    background-color: orange;
+    border: none;
+    width: 60px;
+    border-radius: 10px;
+    font-family: 'Lora', serif;
+  }
+  .second-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  .reverse{
+    flex-direction: row-reverse;
+  }
+  footer{
+    background-color: #faeee7;
+    text-align: center;
+    padding: 6px;
+    width: 200px;
+    margin: 0 auto;
+    font-size: 12px;
+  }
