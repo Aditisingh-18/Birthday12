@@ -7,5 +7,5 @@ nobtn.addEventListener('mouseenter', function(){
   secondContainer.classList.toggle('reverse')
 })
 yesbtn.addEventListener('click', function(){
-  Text.textContent = 'Meet me at 12:30 pm in classroom (208) 🤪😎  '
+  Text.textContent = 'Meet me at 3:10pm 🤪😎  '
 })
